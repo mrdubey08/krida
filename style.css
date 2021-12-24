@@ -713,7 +713,9 @@ footer {
         height: auto;
     }
 
-
+    .saleimages {
+        height: 150px;
+    }
 
     .navigation .prev{
         top: 26%;
